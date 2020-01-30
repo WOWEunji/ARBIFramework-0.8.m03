@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ARBIFrameworkConfiguration>
+	<MessageBrokerStart>true</MessageBrokerStart>
+	<FrameworkStart>true</FrameworkStart>
+	<MessageBrokerType>Apollo</MessageBrokerType>
+	<MessageBrokerProperty>
+		<Host>auto</Host>
+		<Port>61616</Port>
+	</MessageBrokerProperty>
+	<InteractionManagerStart>true</InteractionManagerStart>
+	<ARBIFrameworkMonitorStart>true</ARBIFrameworkMonitorStart>
+</ARBIFrameworkConfiguration>
